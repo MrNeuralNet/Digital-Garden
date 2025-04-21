@@ -36,7 +36,7 @@
         "how old are you",
         "age?"
       ],
-      "respones": ["My owner Shivang is 23 years old", "23 years!"]
+      "responses": ["My owner Shivang is 23 years old", "23 years!"]
     },
     {
       "tag": "name",
